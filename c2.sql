@@ -1,0 +1,1 @@
+select 'c2' from dual;
