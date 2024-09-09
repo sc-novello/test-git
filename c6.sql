@@ -1,0 +1,1 @@
+select '[main] c6' from dual;
